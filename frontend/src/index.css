@@ -1,0 +1,32 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background: #0f172a;
+  color: #3f3f3f;
+}
+h1 {
+  color: #fff;
+}
+button {
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: none;
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+}
+input,
+textarea {
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+code {
+  background: #071022;
+  color: #9ae6b4;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
